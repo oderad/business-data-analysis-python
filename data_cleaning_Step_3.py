@@ -1,7 +1,7 @@
 import pandas as pd
 
 # We stored the csv file as a data frame in the data variable
-data = pd.read_csv("C:/Users/omard/Desktop/Educational__Information/Data_Science_Projects/Data_Analysis/Python/Retail_Data/retail_data.csv")
+data = pd.read_csv("C:/Users/retail_data.csv")
 
 # Organize the column names in arrays
 acolm = ['Order_ID','Order_Date','Customer_ID','Customer_Type','Product','Category'
