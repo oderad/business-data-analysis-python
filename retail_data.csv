@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Customer_ID,Customer_Type,Product,Category,Region,Salesperson,Units,Unit_Price,Discount,Returned,Payment_Method,Customer_Rating
+1001,2026-01-03,C001,New,Laptop,Electronics,North,Alice,2,850,0.05,No,Credit Card,5
+1002,01/05/2026,C002,Returning,Mouse,electronics,South,Bob,10,25,0,No,Cash,4
+1003,2026/01/07,C003,New,Office Chair,Furniture,East,Charlie,3,180,10%,No,Credit Card,5
+1004,Jan 10 2026,C004,Returning,Keyboard,Electronics,West,Diana,5,60,0.05,No,Debit Card,4
+1005,2026-01-12,C005,New,Desk,Furniture,North,Alice,2,300,0.15,No,Credit Card,3
+1006,01-15-2026,C006,Returning,Monitor,Electronics,South,Bob,4,250,0.10,Yes,Credit Card,2
+1007,2026-01-18,C007,New,Notebook,Stationery,East,Charlie,20,5,0,No,Cash,5
+1008,2026-01-20,C008,Returning,Printer,Electronics,West,Diana,2,220,0.05,No,Debit Card,4
+1009,2026-01-22,C009,Returning,Desk,Furniture,North,Alice,1,300,0,No,Credit Card,5
+1010,2026-01-25,C010,New,Pen,Stationery,South,Bob,50,2,0.05,No,Cash,4
+1011,2026-02-01,C011,Returning,Laptop,Electronics,East,Charlie,1,850,0.10,No,Credit Card,5
+1012,2026-02-03,C012,New,Mouse,Electronics,West,Diana,15,25,0,No,Debit Card,4
+1013,2026-02-05,C013,Returning,Office Chair,Furniture,North,Alice,4,180,0.05,No,Credit Card,5
+1014,2026-02-08,C014,New,Keyboard,electronics,South,Bob,8,60,10%,No,Cash,3
+1015,2026-02-10,C015,Returning,Desk,Furniture,East,Charlie,3,300,0.15,Yes,Credit Card,2
+1016,2026-02-13,C016,New,Monitor,Electronics,West,Diana,5,250,0.05,No,Debit Card,5
+1017,2026-02-15,C017,Returning,Notebook,Stationery,North,Alice,30,5,0,No,Cash,4
+1018,2026-02-18,C018,New,Printer,Electronics,South,Bob,3,220,0.10,No,Credit Card,4
+1019,2026-02-20,C019,Returning,Pen,Stationery,East,Charlie,80,2,0.05,No,Cash,5
+1020,2026-02-23,C020,New,Laptop,Electronics,West,Diana,2,850,0.15,Yes,Credit Card,2
+1021,2026-02-25,C021,Returning,Mouse,Electronics,North,Alice,12,25,0.05,No,Debit Card,4
+1022,2026-02-27,C022,New,Desk,Furniture,South,Bob,2,300,0.10,No,Credit Card,5
+1023,2026-03-01,C023,Returning,Office Chair,Furniture,East,Charlie,5,180,0.05,No,Credit Card,4
+1024,03/03/2026,C024,New,Keyboard,Electronics,West,Diana,10,60,0,No,Cash,5
+1025,2026-03-05,C025,Returning,Monitor,Electronics,North,Alice,3,250,0.10,No,Credit Card,4
+1026,2026-03-08,C026,New,Printer,Electronics,South,Bob,1,220,0.05,No,Debit Card,3
+1027,2026-03-10,C027,Returning,Notebook,Stationery,East,Charlie,25,5,0,No,Cash,5
+1028,2026-03-12,C028,New,Pen,Stationery,West,Diana,100,2,0.05,No,Cash,4
+1029,2026-03-15,C029,Returning,Laptop,Electronics,North,Alice,1,850,0.10,No,Credit Card,5
+1030,2026-03-17,C030,New,Mouse,Electronics,South,Bob,20,25,0,No,Cash,4
+1031,2026-03-20,C031,Returning,Desk,Furniture,East,Charlie,2,300,0.15,Yes,Credit Card,2
+1032,2026-03-22,C032,New,Office Chair,Furniture,West,Diana,6,180,0.05,No,Debit Card,5
+1033,2026-03-25,C033,Returning,Keyboard,Electronics,North,Alice,7,60,0.10,No,Credit Card,4
+1034,2026-03-27,C034,New,Monitor,Electronics,South,Bob,4,250,0.05,No,Credit Card,5
+1035,2026-03-29,C035,Returning,Printer,Electronics,East,Charlie,2,220,0,No,Debit Card,4
+1036,2026-04-01,C036,New,Notebook,Stationery,West,Diana,40,5,0.05,No,Cash,5
+1037,2026-04-03,C037,Returning,Pen,Stationery,North,Alice,75,2,0,No,Cash,4
+1038,2026-04-05,C038,New,Laptop,Electronics,South,Bob,2,850,0.10,No,Credit Card,5
+1039,2026-04-08,C039,Returning,Mouse,Electronics,East,Charlie,18,25,0.05,No,Debit Card,4
+1040,2026-04-10,C040,New,Desk,Furniture,West,Diana,1,300,0.15,Yes,Credit Card,1
+1041,2026-04-12,C041,Returning,Office Chair,Furniture,North,Alice,3,180,0.05,No,Credit Card,5
+1042,2026-04-15,C042,New,Keyboard,Electronics,South,Bob,12,60,0,No,Cash,4
+1043,2026-04-18,C043,Returning,Monitor,Electronics,East,Charlie,5,250,0.10,No,Credit Card,5
+1044,2026-04-20,C044,New,Printer,Electronics,West,Diana,3,220,0.05,No,Debit Card,4
+1045,2026-04-22,C045,Returning,Notebook,Stationery,North,Alice,35,5,0,No,Cash,5
+1046,2026-04-25,C046,New,Pen,Stationery,South,Bob,60,2,0.05,No,Cash,4
+1047,2026-04-27,C047,Returning,Laptop,Electronics,East,Charlie,2,850,0.15,No,Credit Card,5
+1048,2026-04-29,C048,New,Mouse,Electronics,West,Diana,25,25,0,No,Debit Card,4
+1049,2026-05-01,C049,Returning,Desk,Furniture,North,Alice,2,300,0.10,No,Credit Card,5
+1050,2026-05-03,C050,New,Office Chair,Furniture,South,Bob,4,180,0.05,No,Credit Card,4
+1051,2026-05-05,C051,Returning,Keyboard,Electronics,East,Charlie,9,60,0.10,No,Cash,5
+1052,2026-05-08,C052,New,Monitor,Electronics,West,Diana,6,250,0.05,No,Credit Card,4
+1053,2026-05-10,C053,Returning,Printer,Electronics,North,Alice,2,220,0,Yes,Debit Card,2
+1054,2026-05-12,C054,New,Notebook,Stationery,South,Bob,50,5,0.05,No,Cash,5
+1055,2026-05-15,C055,Returning,Pen,Stationery,East,Charlie,90,2,0,No,Cash,4
+1056,2026-05-17,C056,New,Laptop,Electronics,West,Diana,3,850,0.10,No,Credit Card,5
+1057,2026-05-20,C057,Returning,Mouse,Electronics,North,Alice,20,25,0.05,No,Debit Card,4
+1058,2026-05-22,C058,New,Desk,Furniture,South,Bob,3,300,0.15,No,Credit Card,5
+1059,2026-05-25,C059,Returning,Office Chair,Furniture,East,Charlie,4,180,0.05,No,Credit Card,4
+1060,2026-05-27,C060,New,Keyboard,Electronics,West,Diana,15,60,0,No,Cash,5
+1061,2026-06-01,C061,Returning,Monitor,Electronics,North,Alice,5,250,0.10,No,Credit Card,4
+1062,2026-06-03,C062,New,Printer,Electronics,South,Bob,2,220,0.05,No,Debit Card,3
+1063,2026-06-05,C063,Returning,Notebook,Stationery,East,Charlie,45,5,0,No,Cash,5
+1064,2026-06-08,C064,New,Pen,Stationery,West,Diana,120,2,0.05,No,Cash,4
+1065,2026-06-10,C065,Returning,Laptop,Electronics,North,Alice,1,850,0.15,No,Credit Card,5
+1066,2026-06-12,C066,New,Mouse,Electronics,South,Bob,30,25,0,No,Cash,4
+1067,2026-06-15,C067,Returning,Desk,Furniture,East,Charlie,2,300,0.10,No,Credit Card,5
+1068,2026-06-18,C068,New,Office Chair,Furniture,West,Diana,5,180,0.05,No,Debit Card,4
+1069,2026-06-20,C069,Returning,Keyboard,Electronics,North,Alice,10,60,0.10,No,Credit Card,5
+1070,2026-06-22,C070,New,Monitor,Electronics,South,Bob,4,250,0.05,No,Credit Card,4
+1071,2026-06-25,C071,Returning,Printer,Electronics,East,Charlie,3,220,0,No,Debit Card,5
+1072,2026-06-27,C072,New,Notebook,Stationery,West,Diana,55,5,0.05,No,Cash,5
+1073,2026-06-29,C073,Returning,Pen,Stationery,North,Alice,110,2,0,No,Cash,4
+1074,2026-07-01,C074,New,Laptop,Electronics,South,Bob,2,850,0.10,Yes,Credit Card,2
+1075,2026-07-03,C075,Returning,Mouse,Electronics,East,Charlie,22,25,0.05,No,Debit Card,4
+1076,2026-07-05,C076,New,Desk,Furniture,West,Diana,2,300,0.15,No,Credit Card,5
+1077,2026-07-08,C077,Returning,Office Chair,Furniture,North,Alice,6,180,0.05,No,Credit Card,5
+1078,2026-07-10,C078,New,Keyboard,Electronics,South,Bob,14,60,0,No,Cash,4
+1079,2026-07-12,C079,Returning,Monitor,Electronics,East,Charlie,6,250,0.10,No,Credit Card,5
+1080,2026-07-15,C080,New,Printer,Electronics,West,Diana,4,220,0.05,No,Debit Card,4
+1081,2026-07-17,C081,Returning,Notebook,Stationery,North,Alice,60,5,0,No,Cash,5
+1082,2026-07-20,C082,New,Pen,Stationery,South,Bob,150,2,0.05,No,Cash,4
+1083,2026-07-22,C083,Returning,Laptop,Electronics,East,Charlie,2,850,0.15,No,Credit Card,5
+1084,2026-07-25,C084,New,Mouse,Electronics,West,Diana,35,25,0,No,Debit Card,4
+1085,2026-07-27,C085,Returning,Desk,Furniture,North,Alice,3,300,0.10,No,Credit Card,5
+1086,2026-07-29,C086,New,Office Chair,Furniture,South,Bob,5,180,0.05,No,Credit Card,4
+1087,2026-08-01,C087,Returning,Keyboard,Electronics,East,Charlie,11,60,0.10,No,Cash,5
+1088,2026-08-02,C088,New,Monitor,Electronics,West,Diana,7,250,0.05,No,Credit Card,4
+1089,2026-08-03,C089,Returning,Printer,Electronics,North,Alice,2,220,0,No,Debit Card,5
+1090,2026-08-04,C090,New,Notebook,Stationery,South,Bob,65,5,0.05,No,Cash,5
+1091,2026-08-05,C091,Returning,Pen,Stationery,East,Charlie,130,2,0,No,Cash,4
+1092,2026-08-06,C092,New,Laptop,Electronics,West,Diana,3,850,0.10,No,Credit Card,5
+1093,2026-08-07,C093,Returning,Mouse,Electronics,North,Alice,25,25,0.05,No,Debit Card,4
+1094,2026-08-08,C094,New,Desk,Furniture,South,Bob,2,300,0.15,No,Credit Card,5
+1095,2026-08-08,C095,Returning,Office Chair,Furniture,East,Charlie,4,180,0.05,No,Credit Card,4
+1096,2026-08-08,C096,New,Keyboard,Electronics,West,Diana,16,60,0,No,Cash,5
+1097,2026-08-08,C097,Returning,Monitor,Electronics,North,Alice,5,250,0.10,No,Credit Card,4
+1098,2026-08-08,C098,New,Printer,Electronics,South,Bob,3,220,0.05,No,Debit Card,4
+1099,2026-08-08,C099,Returning,Notebook,Stationery,East,Charlie,70,5,0,No,Cash,5
+1100,2026-08-08,C100,New,Pen,Stationery,West,Diana,140,2,0.05,No,Cash,4
+1101,2026-08-09,C101,Returning,Laptop,Electronics,North,Alice,2,850,0.15,No,Credit Card,5
+1102,2026-08-10,C102,New,Mouse,Electronics,South,Bob,40,25,0,Cash,4
+1103,2026-08-11,C103,Returning,Desk,Furniture,East,Charlie,3,300,0.10,No,Credit Card,5
+1104,2026-08-12,C104,New,Office Chair,Furniture,West,Diana,6,180,0.05,No,Debit Card,4
+1105,2026-08-13,C105,Returning,Keyboard,Electronics,North,Alice,12,60,0.10,No,Credit Card,5
+1106,2026-08-14,C106,New,Monitor,Electronics,South,Bob,5,250,0.05,No,Credit Card,4
+1107,2026-08-15,C107,Returning,Printer,Electronics,East,Charlie,3,220,0,No,Debit Card,5
+1108,2026-08-16,C108,New,Notebook,Stationery,West,Diana,80,5,0.05,No,Cash,5
+1109,2026-08-17,C109,Returning,Pen,Stationery,North,Alice,160,2,0,Cash,4
+1110,2026-08-18,C110,New,Laptop,Electronics,South,Bob,2,850,0.10,Yes,Credit Card,2
+1111,2026-08-19,C111,Returning,Mouse,Electronics,East,Charlie,30,25,0.05,No,Debit Card,4
+1112,2026-08-20,C112,New,Desk,Furniture,West,Diana,2,300,0.15,No,Credit Card,5
+1113,2026-08-21,C113,Returning,Office Chair,Furniture,North,Alice,5,180,0.05,No,Credit Card,5
+1114,2026-08-22,C114,New,Keyboard,Electronics,South,Bob,18,60,0,No,Cash,4
+1115,2026-08-23,C115,Returning,Monitor,Electronics,East,Charlie,8,250,0.10,No,Credit Card,5
+1116,2026-08-24,C116,New,Printer,Electronics,West,Diana,4,220,0.05,No,Debit Card,4
+1117,2026-08-25,C117,Returning,Notebook,Stationery,North,Alice,75,5,0,No,Cash,5
+1118,2026-08-26,C118,New,Pen,Stationery,South,Bob,180,2,0.05,No,Cash,4
+1119,2026-08-27,C119,Returning,Laptop,Electronics,East,Charlie,2,850,0.15,No,Credit Card,5
+1120,2026-08-28,C120,New,Mouse,Electronics,West,Diana,45,25,0,No,Debit Card,4
+1121,2026-08-29,C121,Returning,Desk,Furniture,North,Alice,3,300,0.10,No,Credit Card,5
+1122,2026-08-30,C122,New,Office Chair,Furniture,South,Bob,7,180,0.05,No,Credit Card,4
+1123,2026-08-31,C123,Returning,Keyboard,Electronics,East,Charlie,15,60,0.10,No,Cash,5
+1124,2026-09-01,C124,New,Monitor,Electronics,West,Diana,6,250,0.05,No,Credit Card,4
+1125,2026-09-02,C125,Returning,Printer,Electronics,North,Alice,2,220,0,No,Debit Card,5
+1126,2026-09-03,C126,New,Notebook,Stationery,South,Bob,90,5,0.05,No,Cash,5
+1127,2026-09-04,C127,Returning,Pen,Stationery,East,Charlie,200,2,0,Cash,4
+1128,2026-09-05,C128,New,Laptop,Electronics,West,Diana,3,850,0.10,No,Credit Card,5
+1129,2026-09-06,C129,Returning,Mouse,Electronics,North,Alice,35,25,0.05,No,Debit Card,4
+1130,2026-09-07,C130,New,Desk,Furniture,South,Bob,2,300,0.15,No,Credit Card,5
+1131,2026-09-08,C131,Returning,Office Chair,Furniture,East,Charlie,5,180,0.05,No,Credit Card,4
+1132,2026-09-09,C132,New,Keyboard,Electronics,West,Diana,20,60,0,No,Cash,5
+1133,2026-09-10,C133,Returning,Monitor,Electronics,North,Alice,7,250,0.10,No,Credit Card,4
+1134,2026-09-11,C134,New,Printer,Electronics,South,Bob,4,220,0.05,No,Debit Card,4
+1135,2026-09-12,C135,Returning,Notebook,Stationery,East,Charlie,100,5,0,No,Cash,5
+1136,2026-09-13,C136,New,Pen,Stationery,West,Diana,220,2,0.05,No,Cash,4
+1137,2026-09-14,C137,Returning,Laptop,Electronics,North,Alice,2,850,0.15,No,Credit Card,5
+1138,2026-09-15,C138,New,Mouse,Electronics,South,Bob,50,25,0,Cash,4
+1139,2026-09-16,C139,Returning,Desk,Furniture,East,Charlie,3,300,0.10,No,Credit Card,5
+1140,2026-09-17,C140,New,Office Chair,Furniture,West,Diana,8,180,0.05,No,Debit Card,4
+1141,2026-09-18,C141,Returning,Keyboard,Electronics,North,Alice,16,60,0.10,No,Credit Card,5
+1142,2026-09-19,C142,New,Monitor,Electronics,South,Bob,6,250,0.05,No,Credit Card,4
+1143,2026-09-20,C143,Returning,Printer,Electronics,East,Charlie,4,220,0,No,Debit Card,5
+1144,2026-09-21,C144,New,Notebook,Stationery,West,Diana,110,5,0.05,No,Cash,5
+1145,2026-09-22,C145,Returning,Pen,Stationery,North,Alice,240,2,0,Cash,4
+1146,2026-09-23,C146,New,Laptop,Electronics,South,Bob,2,850,0.10,No,Credit Card,5
+1147,2026-09-24,C147,Returning,Mouse,Electronics,East,Charlie,40,25,0.05,No,Debit Card,4
+1148,2026-09-25,C148,New,Desk,Furniture,West,Diana,3,300,0.15,No,Credit Card,5
+1149,2026-09-26,C149,Returning,Office Chair,Furniture,North,Alice,6,180,0.05,No,Credit Card,4
+1150,2026-09-27,C150,New,Keyboard,Electronics,South,Bob,22,60,0,No,Cash,5
