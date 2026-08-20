@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # We stored the csv file as a data frame in the data variable
-data = pd.read_csv("C:/Users/omard/Desktop/Educational__Information/Data_Science_Projects/Data_Analysis/Python/Retail_Data/fixed_retail_data.csv")
+data = pd.read_csv("C:/Users/fixed_retail_data.csv")
 
 # Create metrics
 
