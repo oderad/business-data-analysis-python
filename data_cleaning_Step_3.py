@@ -77,6 +77,6 @@ else:
 
 # Now, we save the cleaned data into a csv 
 # Set the index to false, if true then an extra column with the index will be added to the dataset
-data.to_csv('C:/Users/omard/Desktop/Educational__Information/Data_Science_Projects/Data_Analysis/Python/Retail_Data/fixed_retail_data.csv', index = False)
+data.to_csv('C:/Users/fixed_retail_data.csv', index = False)
 
 
