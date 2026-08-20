@@ -1,4 +1,4 @@
-# business-data-analysis-python
+# E-commerce business-data-analysis-python
 This repository contains business data analysis for a practice e-commerce company utilizing python
 
 ## Business Problem
